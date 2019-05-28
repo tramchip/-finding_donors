@@ -1,7 +1,7 @@
 
 # -finding_donors
 ## Pushing new file on Git repitory 
-NDC Team@DESKTOP-JDINPCM MINGW64 ~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
+ ~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
 $ git status
 On branch master
 Your branch is up to date with 'origin/master'.
@@ -14,17 +14,17 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-NDC Team@DESKTOP-JDINPCM MINGW64 ~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
+ ~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
 $ git add .
 warning: LF will be replaced by CRLF in finding_donors.ipynb.
 The file will have its original line endings in your working directory
 
-NDC Team@DESKTOP-JDINPCM MINGW64 ~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
+/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
 $ git commit -m "finding_donors update"
 [master 07574e7] finding_donors update
  1 file changed, 94 insertions(+), 71 deletions(-)
 
-NDC Team@DESKTOP-JDINPCM MINGW64 ~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
+~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
 $ git push origin master
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
@@ -36,7 +36,7 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/tramchip/-finding_donors.git
    3c89fb4..07574e7  master -> master
 
-NDC Team@DESKTOP-JDINPCM MINGW64 ~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
+~/Documents/Python_DataAnalyst/udacity/projects/charityml/p1_charityml (master)
 
 
 ---------------------------------------------
